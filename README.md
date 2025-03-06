@@ -1,4 +1,4 @@
-Este código implementa um Gerenciador de Tarefas simples em Java, permitindo ao usuário adicionar, listar e remover tarefas usando um menu interativo no console.
+Este código implementa um gerenciador de tarefas simples em Java, permitindo ao usuário adicionar, listar e remover tarefas usando um menu interativo no console.
 
 Comandos:
 - Adicionar uma tarefa: Digite 1, pressione Enter e insira uma tarefa.
